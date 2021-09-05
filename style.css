@@ -1,0 +1,12 @@
+html,body{
+    background-color: rgb(6, 3, 24);
+    color: white;
+    font-weight: bold;
+}
+
+thead{
+    background-color: rgb(252, 153, 153);
+}
+tbody{
+    background-color: rgb(224, 203, 203);
+}
